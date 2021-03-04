@@ -1,0 +1,13 @@
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.exe
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.deps.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.runtimeconfig.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.runtimeconfig.dev.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.dll
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ColorMixer.pdb
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\Colorful.Console.dll
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.csprojAssemblyReference.cache
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.AssemblyInfoInputs.cache
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.AssemblyInfo.cs
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.csproj.CopyComplete
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.dll
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ColorMixer.pdb

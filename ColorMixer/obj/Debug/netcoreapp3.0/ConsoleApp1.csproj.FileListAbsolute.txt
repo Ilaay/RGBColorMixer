@@ -1,0 +1,13 @@
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\University\SoloStudying\ConsoleApp1\bin\Debug\netcoreapp3.0\Colorful.Console.dll
+D:\University\SoloStudying\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
